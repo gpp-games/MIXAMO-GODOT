@@ -34,4 +34,6 @@ When you've exported to .escn you can:
 ______________________________________________________________
 
 # replacing ' ' with '_' on linux-terminal:
->for foo in *.fbx; do mv "$foo" `echo $foo | tr ' ' '_'` ; done
+```
+for foo in *.fbx; do mv "$foo" `echo $foo | tr ' ' '_'` ; done
+```
