@@ -14,6 +14,8 @@
 
 # *How to use:*
 0. You might want to replace spaces in the filenames (optional)
+   If you downloaded a Mixamo-Animation-Pack move the .fbx 
+   with the Model/Skin to a different location! (important)
 1. To see printed warnings/errors logs, open Blender in Terminal
 2. Open a new file in blender and save it in the directory, with
    the files you downloaded from Mixamo. Working-Directory.
