@@ -1,5 +1,5 @@
 # MIXAMO-GODOT
-Blender-Script, that lets you batch import + export Mixamo-Animations from .fbx to .escn . With or without RootMotion.
+Blender-Script, that lets you batch import + export Mixamo-Animations from .fbx to .escn . With and without RootMotion.
 ! Blender Version 2.80, 2.81 - Not tested with other versions.
 ! Doesn't work with meshes currently, only bare armatures with animations.
 ! Can't join animations in a single file, yet.
