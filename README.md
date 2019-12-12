@@ -25,10 +25,10 @@
 
 When you've exported to .escn you can:
 
->$ cd your-anim-folder/escn_out
->$ godot -e
+>cd your-anim-folder/escn_out
+>godot -e
 
 ______________________________________________________________
 
->replacing ' ' with '_' on linux-terminal:
+<replacing ' ' with '_' on linux-terminal:>
 >for foo in *.fbx; do mv "$foo" `echo $foo | tr ' ' '_'` ; done
