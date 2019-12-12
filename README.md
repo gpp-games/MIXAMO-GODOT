@@ -4,6 +4,7 @@ Blender-Script, that lets you batch import + export Mixamo-Animations from .fbx 
 ! Doesn't work with meshes currently, only bare armatures with animations.
 ! Can't join animations in a single file, yet.
 ! Only work's with .fbx
+
 How to use:
 1. In the folder with your Mixamo-Animations (.fbx) save a .blend. File 
 1b. A-Select and X-Remove (default cube etc.) !
